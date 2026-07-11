@@ -67,7 +67,7 @@ for (let i = 0; i < csvData.length; i++) {
         cell4 = "";
         cellIndex = 1;
     } else {
-       r
+       
         if (cellIndex === 1) cell1 += char;
         else if (cellIndex === 2) cell2 += char;
         else if (cellIndex === 3) cell3 += char;
